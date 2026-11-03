@@ -1,6 +1,6 @@
 # pycalc
 
-[![CI](https://github.com/YOUR_USERNAME/pycalc/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/pycalc/actions)
+[![CI](https://github.com/KalaiRit/pycalc/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/pycalc/actions)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -16,7 +16,7 @@ A simple, well-tested command-line calculator written in Python.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pycalc.git
+git clone https://github.com/KalaiRit/pycalc.git
 cd pycalc
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
